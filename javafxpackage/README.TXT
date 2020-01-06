@@ -16,6 +16,8 @@ Es werden ein Textfeld, ein Button und ein Label in einer GridPane erzeugt.
 Gibt man beliebigen Text in das Textfeld ein und drück daraufhin den Button, 
 so wird dieser Text vom Label angezeigt. 
 
+GITHUB: 
+https://github.com/eingenerdet/BlueJ_and_JavaFX.git
 
 JAVAFX TUTORIALS:
 https://javabeginners.de/Frameworks/JavaFX/FXML.php
