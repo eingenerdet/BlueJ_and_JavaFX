@@ -1,0 +1,18 @@
+.root {
+    -fx-background-color: #C9BCDB;
+}
+
+.klickmich-button {
+    -fx-background-color: #FFDF32;
+}
+
+.klickmich-textfield {
+    -fx-background-color: #BADA55;
+    -fx-text-inner-color: #000000;
+}
+
+.klickmich-label {
+    -fx-background-color: #BADA55;
+    -fx-text-inner-color: #FF00FF;
+    -fx-padding: 5px;
+}
